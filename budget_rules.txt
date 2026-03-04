@@ -1,0 +1,4 @@
+- Grocery Budget: Limit spending to $400 per month.
+- Entertainment Warning: Any single entertainment expense over $100 is considered a luxury and should be flagged.
+- Subscription Policy: All software and media subscriptions must be reviewed for necessity if they exceed $10/month.
+- Daily Caffeine: Coffee spending should be kept under $5.00 per transaction.
